@@ -10,7 +10,7 @@ In mathematical terms, the sequence Fn of Fibonacci numbers is defined by the re
     
 with seed values
 
-   F0 = 0 and F1 = 1.
+    F0 = 0 and F1 = 1.
 
 Given a number n, print n-th Fibonacci Number.
 Examples:
